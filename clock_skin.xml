@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>clock_skin_model_2.png</name>
+	</drawable>
+	<drawable>
+		<name>day_array.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>133</centerX>
+		<centerY>2</centerY>
+	</drawable>
+	<drawable>
+		<name>.img12619.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>.img12620.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>.img12595.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>.img12617.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>.img12649.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.4.8.0'/>
+-->
+</clockskin>
